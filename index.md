@@ -1,13 +1,11 @@
 ---
 layout: about
-title: Sobre mi
+title: Sitio web personal
 menu: true
 order: 1
 ---
 
-## Sitio web en construcción
-A pedido del público general y para ordenar un poco la información que genero voy a comenzar en breve a publicar mis notas en este sitio. La idea general es comenzar a escribir nuevos artículos que iré completando con el tiempo y la experiencia acumulada. También voy a revisar y actualizar viejos artículos que escribí para actualizar la información y ayornar el formato.
+## Contacto
+LinkedIn: [/andres-vecchione](https://www.linkedin.com/in/andres-vecchione)
 
-Artículos nuevos que estoy trabajando ahora:
-- Guía del Kefir de agua
-- Por qué soy vegano... Y por qué sigo siéndolo
+Formulario de contacto: [Completar formulario](https://docs.google.com/forms/d/e/1FAIpQLSf-Z9JHnpGRhEgQdxiQ8ZFjML2dmgB7u1_OjUcwAZrRPxR1Vw/viewform?usp=sf_link)
